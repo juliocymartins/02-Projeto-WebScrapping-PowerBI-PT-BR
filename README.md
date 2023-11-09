@@ -9,6 +9,7 @@ Após a extração, foram aplicados filtros utilizando bibliotecas Python (como 
 Os resultados foram inseridos em um banco de dados SQL, criado e modelado com antecedência no PostgreSQL.
 
 Dashboard no Power BI
+
 Com base nos dados coletados, foi desenvolvido um dashboard interativo no Power BI. 
 Este dashboard permite aos usuários visualizar de forma clara e concisa informações como título, preço e link dos smartphones disponíveis em diferentes lojas. 
 Além disso, oferece a funcionalidade de acompanhar a variação de preço, permitindo ao usuário ordenar os resultados do menor para o maior preço.
@@ -16,6 +17,7 @@ Além disso, oferece a funcionalidade de acompanhar a variação de preço, perm
 O principal objetivo do dashboard é proporcionar uma forma eficaz de monitorar os preços dos smartphones mais populares e vendidos no país, disponíveis nos maiores e-commerces do Brasil.
 
 Conteúdo do Repositório
+
 Cada arquivo ".py" do repositório foi utilizado para extrair um produto de uma determinada loja virtual.
 Oberservação importante: Pode haver alguma alteração no html dos sites utilizados no projeto, fazendo com que os códigos parem de funcionar. Qualquer dúvida entrar em contato através do e-mail no final deste arquivo.
 
