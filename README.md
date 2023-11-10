@@ -1,7 +1,7 @@
 # webscrapping_project
 Projeto de Web Scraping - Acompanhamento de Preços de Smartphones
 Descrição do Projeto
-Este projeto consiste em um processo de web scraping utilizando a biblioteca Selenium do Python para extrair dados de cinco dos maiores e-commerces no Brasil: Amazon, Americanas, Kabum, Magalu e Submarino. 
+Este projeto consiste em um processo de web scraping utilizando a biblioteca Selenium do Python para extrair dados de cinco e-commerces do Brasil.
 O objetivo foi minerar informações sobre três smartphones muito populares e amplamente vendidos no Brasil: Xiaomi Redmi Note 12, Samsung Galaxy A54 e iPhone 13.
 
 Após a extração, foram aplicados filtros utilizando bibliotecas Python (como Pandas), para obter apenas os dados específicos sobre os smartphones desejados, descartando os resultados não relevantes da pesquisa.
