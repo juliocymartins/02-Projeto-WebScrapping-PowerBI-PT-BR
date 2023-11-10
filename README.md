@@ -26,3 +26,5 @@ https://app.powerbi.com/view?r=eyJrIjoiMjU0OThlOTYtYTBjYy00MzE1LWFiMGMtOGY0MDJkO
 
 Contato
 Para mais informações ou dúvidas, entre em contato através do e-mail [yamashitajulio@hotmail.com].
+
+RESPEITAR SEMPRE O SITE AO EXECUTAR ESSE TIPO DE PROGRAMA.
