@@ -19,12 +19,15 @@ O principal objetivo do dashboard é proporcionar uma forma eficaz de monitorar 
 Conteúdo do Repositório
 
 Cada arquivo ".py" do repositório foi utilizado para extrair um produto de uma determinada loja virtual.
-Oberservação importante: Pode haver alguma alteração no html dos sites utilizados no projeto, fazendo com que os códigos parem de funcionar. Qualquer dúvida entrar em contato através do e-mail no final deste arquivo.
 
 LINK PARA DASHBOARD NO POWER B.I. :
 https://app.powerbi.com/view?r=eyJrIjoiMjU0OThlOTYtYTBjYy00MzE1LWFiMGMtOGY0MDJkODY5MDBlIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9
 
 Contato
 Para mais informações ou dúvidas, entre em contato através do e-mail [yamashitajulio@hotmail.com].
+
+Observação importante: Pode haver alguma alteração no html dos sites utilizados no projeto, fazendo com que os códigos parem de funcionar. 
+
+Qualquer dúvida entrar em contato através do e-mail no final deste arquivo.
 
 RESPEITAR SEMPRE O SITE/SERVIDOR AO EXECUTAR ESSE TIPO DE PROGRAMA.
