@@ -26,4 +26,5 @@ Para mais informações ou dúvidas, entre em contato através do e-mail [yamash
 
 Observação importante: Pode haver alguma alteração no html dos sites utilizados no projeto, fazendo com que os códigos parem de funcionar. 
 
-RESPEITAR SEMPRE O SITE/SERVIDOR AO EXECUTAR ESSE TIPO DE PROGRAMA.
+### RESPEITAR SEMPRE O SITE/SERVIDOR AO EXECUTAR ESSE TIPO DE PROGRAMA.
+### ALWAYS RESPECT THE WEBSITE/SERVER WHEN RUNNING THIS TYPE OF PROGRAM.
