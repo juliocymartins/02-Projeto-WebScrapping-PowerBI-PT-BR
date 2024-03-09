@@ -11,11 +11,11 @@ O objetivo foi minerar informações sobre três smartphones muito populares e a
 <img align="center" alt="Coding" width="400" src="https://cdn.awsli.com.br/600x700/1257/1257905/produto/229474411/note-12-6128-x9krpxdgb7.jpg">
 
 ### Samsung Galaxy A54
-<img align="center" alt="Coding" width="400" src="https://suprememobiles.in/cdn/shop/files/samsung-A54--VOILET-f-_-B_8686ab78-e6b6-49b4-beeb-2020d252932f.gif?v=1692514202">
+<img align="center" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyDMBpDHDB7OjoPTRIwXGxyCocvNDVIN5HCg&usqp=CAU">
 
 
 ### iPhone 13.
-<img align="center" alt="Coding" width="400" src="https://storage.googleapis.com/buro-malaysia-storage/beta.toffeetest.com/buro/2021/09/f61547f5-images_iphone-13-pro-mini-differences-malaysia.gif">
+<img align="center" alt="Coding" width="400" src="https://http2.mlstatic.com/D_NQ_NP_736168-MLA47781742030_102021-O.webp">
 
 Após a extração, foram aplicados filtros utilizando bibliotecas Python (como Pandas), para obter apenas os dados específicos sobre os smartphones desejados, descartando os resultados não relevantes da pesquisa.
 
