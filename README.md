@@ -8,7 +8,7 @@ Este projeto consiste em um processo de web scraping utilizando a biblioteca Sel
 O objetivo foi minerar informações sobre três smartphones muito populares e amplamente vendidos no Brasil: 
 
 ### Xiaomi Redmi Note 12
-<img align="center" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-8910d40f5737959bfaf25d69d39c19c7">
+<img align="center" alt="Coding" width="400" src="https://cdn.awsli.com.br/600x700/1257/1257905/produto/229474411/note-12-6128-x9krpxdgb7.jpg">
 
 ### Samsung Galaxy A54
 <img align="center" alt="Coding" width="400" src="https://suprememobiles.in/cdn/shop/files/samsung-A54--VOILET-f-_-B_8686ab78-e6b6-49b4-beeb-2020d252932f.gif?v=1692514202">
