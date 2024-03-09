@@ -3,7 +3,7 @@ Projeto de Web Scraping - Acompanhamento de Preços de Smartphones
 
 ### LINK PARA DASHBOARD NO POWER B.I. : https://app.powerbi.com/view?r=eyJrIjoiMjU0OThlOTYtYTBjYy00MzE1LWFiMGMtOGY0MDJkODY5MDBlIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9
 
-<img align="center" alt="Coding" width="400" src="https://cdn.awsli.com.br/600x700/1257/1257905/produto/229474411/note-12-6128-x9krpxdgb7.jpg">
+<img align="center" alt="Coding" width="400" src="https://amta.org.au/wp-content/uploads/2020/03/Choosing-a-mobile-phone-800x470.jpg">
 
 ## Descrição do Projeto
 Este projeto consiste em um processo de web scraping utilizando a biblioteca Selenium do Python para extrair dados de cinco e-commerces do Brasil.
