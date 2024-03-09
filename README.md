@@ -5,7 +5,17 @@ Projeto de Web Scraping - Acompanhamento de Preços de Smartphones
 
 ## Descrição do Projeto
 Este projeto consiste em um processo de web scraping utilizando a biblioteca Selenium do Python para extrair dados de cinco e-commerces do Brasil.
-O objetivo foi minerar informações sobre três smartphones muito populares e amplamente vendidos no Brasil: Xiaomi Redmi Note 12, Samsung Galaxy A54 e iPhone 13.
+O objetivo foi minerar informações sobre três smartphones muito populares e amplamente vendidos no Brasil: 
+
+### Xiaomi Redmi Note 12
+<img align="center" alt="Coding" width="400" src="https://qph.cf2.quoracdn.net/main-qimg-8910d40f5737959bfaf25d69d39c19c7">
+
+### Samsung Galaxy A54
+<img align="center" alt="Coding" width="400" src="https://suprememobiles.in/cdn/shop/files/samsung-A54--VOILET-f-_-B_8686ab78-e6b6-49b4-beeb-2020d252932f.gif?v=1692514202">
+
+
+### iPhone 13.
+<img align="center" alt="Coding" width="400" src="https://storage.googleapis.com/buro-malaysia-storage/beta.toffeetest.com/buro/2021/09/f61547f5-images_iphone-13-pro-mini-differences-malaysia.gif">
 
 Após a extração, foram aplicados filtros utilizando bibliotecas Python (como Pandas), para obter apenas os dados específicos sobre os smartphones desejados, descartando os resultados não relevantes da pesquisa.
 
