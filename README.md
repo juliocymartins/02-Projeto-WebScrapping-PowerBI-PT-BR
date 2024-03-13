@@ -3,7 +3,7 @@
 
 ### LINK PARA DASHBOARD NO POWER B.I. : https://app.powerbi.com/view?r=eyJrIjoiMjU0OThlOTYtYTBjYy00MzE1LWFiMGMtOGY0MDJkODY5MDBlIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9
 
-<img align="center" alt="Coding" width="400" src="https://amta.org.au/wp-content/uploads/2020/03/Choosing-a-mobile-phone-800x470.jpg">
+<img align="center" alt="Coding" width="400" src="https://static01.nyt.com/images/2018/11/02/business/02sl-usedphone1/02sl-usedphone1-superJumbo.jpg">
 
 ## Descrição do Projeto
 Este projeto consiste em um processo de web scraping utilizando a biblioteca Selenium do Python para extrair dados de cinco e-commerces do Brasil.
