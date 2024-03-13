@@ -20,7 +20,7 @@ Após a extração, foram aplicados filtros utilizando bibliotecas Python (como 
 Os resultados foram inseridos em um banco de dados SQL, criado e modelado com antecedência no PostgreSQL.
 
 ## Dashboard no Power BI
-Com base nos dados coletados, foi desenvolvido um dashboard interativo no Power BI. 
+Com base nos dados coletados, foi desenvolvido um [dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjU0OThlOTYtYTBjYy00MzE1LWFiMGMtOGY0MDJkODY5MDBlIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9) interativo no Power BI. 
 Este dashboard permite aos usuários visualizar de forma clara e concisa informações como título, preço e link dos smartphones disponíveis em diferentes lojas. 
 Além disso, oferece a funcionalidade de acompanhar a variação de preço, permitindo ao usuário ordenar os resultados do menor para o maior preço.
 
