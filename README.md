@@ -1,7 +1,7 @@
 # Projeto Web Scrapping
 ### Comprando um Smartphone como Cientista de Dados 
 
-#### LINK PARA DASHBOARD NO POWER B.I. : https://app.powerbi.com/view?r=eyJrIjoiMjU0OThlOTYtYTBjYy00MzE1LWFiMGMtOGY0MDJkODY5MDBlIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9
+#### LINK PARA DASHBOARD NO POWER B.I. : [Dashboard Web Scrapping](https://app.powerbi.com/view?r=eyJrIjoiMjU0OThlOTYtYTBjYy00MzE1LWFiMGMtOGY0MDJkODY5MDBlIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9)
 
 <img align="center" alt="Coding" width="400" src="https://m.economictimes.com/thumb/msid-55632972,width-1200,height-900,resizemode-4,imgsize-109036/how-do-smartphone-users-take-their-online-buying-decisions.jpg">
 
