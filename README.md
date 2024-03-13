@@ -1,4 +1,4 @@
-# Projeto de Web Scrapping
+# Comprando um Smartphone como Cientista de Dados
 Projeto de Web Scraping - Acompanhamento de Preços de Smartphones
 
 ### LINK PARA DASHBOARD NO POWER B.I. : https://app.powerbi.com/view?r=eyJrIjoiMjU0OThlOTYtYTBjYy00MzE1LWFiMGMtOGY0MDJkODY5MDBlIiwidCI6IjE3NGZkYjA3LWY1YjYtNDc4Zi05MDdmLTY4NWY3ZDVkMGRhNCJ9
