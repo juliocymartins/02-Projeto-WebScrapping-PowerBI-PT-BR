@@ -27,7 +27,7 @@ Além disso, oferece a funcionalidade de acompanhar a variação de preço, perm
 O principal objetivo do dashboard é proporcionar uma forma eficaz de monitorar os preços dos smartphones mais populares e vendidos no país, disponíveis nos maiores e-commerces do Brasil.
 
 ## Conteúdo do Repositório
-Cada arquivo ".py" do repositório foi utilizado para extrair um produto de uma determinada loja virtual.
+Este repositório contém alguns arquivos .py com a extração de smartphones de alguns dos principais sites nacionais. Os arquivos disponibilizados são apenas exemplos, e as tags utilizadas para o scraping foram removidas para proteger os sites.
 
 ## Contato
 Para mais informações ou dúvidas, entre em contato através do e-mail [yamashitajulio@hotmail.com].
